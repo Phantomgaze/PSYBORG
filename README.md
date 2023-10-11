@@ -1,4 +1,4 @@
-# PSYBORG
+# PSYBORG  Screenshots
 ![image](https://github.com/Phantomgaze/PSYBORG/assets/101065566/5e9c8bcb-d811-4447-b891-f1d71001563f)
 ![Screenshot 2023-10-11 171645](https://github.com/Phantomgaze/PSYBORG/assets/101065566/6bf1475a-5a06-4dd2-becd-a3c629bfe0b7)
 
@@ -20,9 +20,7 @@ This is a simple landing page that features an amazing 3D object with an HDR gra
 
 ## Demo
 
-You can see a live demo of this landing page [here]([link_to_demo](https://tangerine-fox-a0d81c.netlify.app/).
-
-## Screenshots
+You can see a live demo of this landing page [here](https://psyborg.netlify.app/)
 
 
 ## License
